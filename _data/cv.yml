@@ -15,21 +15,21 @@ cv:
       - institution: 中国科学院大学
         location: 北京，中国
         area: 计算机应用技术
-        studyType: 博士研究生
+        studyType: 博士
         start_date: 2020-09
         end_date: 2025-06
 
       - institution: 北京林业大学
         location: 北京，中国
         area: 地理信息系统
-        studyType: 硕士研究生
+        studyType: 硕士
         start_date: 2014-09
         end_date: 2016-06
 
       - institution: 北京林业大学
         location: 北京，中国
         area: 计算机科学与技术
-        studyType: 学士
+        studyType: 本科
         start_date: 2009-09
         end_date: 2013-07
 
