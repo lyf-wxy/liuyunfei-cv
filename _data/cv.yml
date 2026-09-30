@@ -1,189 +1,568 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: 刘云飞
+  label: 高级工程师 · 航天地面数据系统技术 / 空间应用大数据智能分析
+  email: liuyunfei2026@gmail.com
+  location: 北京，中国
+  image: prof_pic.jpg
+  summary: 计算机应用技术专业博士，现就职于中国科学院空间应用工程与技术中心工程信息中心。长期从事航天地面数据系统研制与空间应用大数据智能分析工作，作为核心技术骨干 / 副主任设计师，主持并参与天宫二号、中国空间站等多个载人航天型号任务的地面数据系统设计、研制与运行保障；作为项目负责人，在知识图谱构建、多模态融合分析、领域大模型构建与智能体应用等方向取得多项原创性成果。
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: lyf-wxy
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: 中国科学院大学
+        location: 北京，中国
+        area: 计算机应用技术
+        studyType: 博士研究生
+        start_date: 2020-09
+        end_date: 2025-06
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: 北京林业大学
+        location: 北京，中国
+        area: 地理信息系统
+        studyType: 硕士研究生
+        start_date: 2014-09
+        end_date: 2016-06
+
+      - institution: 北京林业大学
+        location: 北京，中国
+        area: 计算机科学与技术
+        studyType: 学士
+        start_date: 2009-09
+        end_date: 2013-07
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: 中国科学院空间应用工程与技术中心 · 工程信息中心
+        position: 高级工程师（副主任设计师）
+        location: 北京，中国
+        start_date: 2016-07
+        end_date: present
+        summary: 作为副主任设计师，主持并参与天宫二号、中国空间站等载人航天多型号任务地面数据系统的设计、研制与运行保障
         highlights:
-          - Relativity
-          - Description 2.
+          - 主持国家重大科技专项子课题 2 项、载人航天工程预研项目 4 项，参与国家重大科技专项、装备预研等项目 20 余项
+          - 提出领域知识图谱构建、多模态融合分析、领域大模型与智能体应用等系列算法，推动工程任务决策与科学数据应用
+          - 主导编制并发布载人航天工程专项标准 3 项
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: 中国科学院地理科学与资源研究所
+        position: 软件工程师
+        location: 北京，中国
+        start_date: 2013-07
+        end_date: 2014-09
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    主要业绩:
+      - name: 工程信息中心系统研制
+        summary: 载人航天工程 · 副主任设计师
+        start_date: 2019-11
+        end_date: present
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - name: 运营期工程公有云平台研制
+        summary: 载人航天工程 · 副主任设计师
+        start_date: 2023-01
+        end_date: present
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - name: KJZ 科学数据中心
+        summary: 载人航天工程 · 副主任设计师
+        start_date: 2016-04
+        end_date: 2025-12
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - name: 基于大模型的载人航天典型业务场景应用
+        summary: 载人航天工程 · 项目负责人
+        start_date: 2025-10
+        end_date: 2026-10
+
+      - name: 空间科学与应用领域实验大模型构建关键技术研究及应用
+        summary: 中心自主部署项目 · 项目负责人
+        start_date: 2025-09
+        end_date: 2027-09
+
+      - name: 空间科学与应用大数据知识图谱构建与智能化应用研究
+        summary: 院重点部署项目 · 项目负责人
+        start_date: 2020-01
+        end_date: 2022-12
+
+      - name: 空间科学与应用领域多模态数据表征学习预训练
+        summary: 中心自主部署项目 · 项目负责人
+        start_date: 2023-11
+        end_date: 2024-12
+
+      - name: （CMS）载人航天工程专项标准
+        summary: 标准类项目 · 项目负责人
+        start_date: 2023-01
+        end_date: 2026-12
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: "空间实验室先进地面数据处理与服务技术系统"
+        awarder: 省部级科技奖 二等奖（团队）
+        date: 2020
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: 中心优秀员工
+        awarder: 中国科学院空间应用工程与技术中心
+        date: "2018, 2019, 2020, 2021, 2022, 2023, 2025"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: 《空间任务地面数据系统技术》（专著）
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - 李盛阳
+          - 刘云飞
+          - 张万峰
+        publisher: 科学出版社
+        releaseDate: 2026
+        summary: "ISBN 978-7-03-083749-3"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Fine-Grained Multi-modal Prompt Learning for Vision-Language Models
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Yunfei Liu
+          - Yunziwei Deng
+          - Anqi Liu
+          - Yanan Liu
+          - Shengyang Li
+        publisher: Neurocomputing
+        releaseDate: 2025
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Image Captioning for Life Ecological Experiment of China's Space Station
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Yunfei Liu
+          - Yizhao Wang
+          - Chen Du
+          - Yunziwei Deng
+          - Anqi Liu
+          - Yanan Liu
+          - Shengyang Li
+        publisher: Complex & Intelligent Systems
+        releaseDate: 2025
+
+      - title: "SSuieBERT: Domain Adaptation Model for Chinese Space Science Text Mining and Information Extraction"
+        authors:
+          - Yunfei Liu
+          - Shengyang Li
+          - Yunziwei Deng
+          - Shiyi Hao
+          - Linjie Wang
+        publisher: Electronics
+        releaseDate: 2024
+
+      - title: "MR4SseC: A Multimodal Representation Learning Framework for Space Science Experiment of China's Space Station"
+        authors:
+          - Yunfei Liu
+          - Anqi Liu
+          - Yanan Liu
+          - Yunziwei Deng
+          - Yizhao Wang
+          - Shengyang Li
+        publisher: 2025 ACM International Conference on Multimedia Retrieval (ICMR)
+        releaseDate: 2025
+
+      - title: "SSUIE 1.0: A Dataset for Chinese Space Science and Utilization Information Extraction"
+        authors:
+          - Yunfei Liu
+          - Shengyang Li
+          - Chen Wang
+          - Xiong Xiong
+          - Yifeng Zheng
+          - Linjie Wang
+          - Shiyi Hao
+        publisher: International Conference on Natural Language Processing and Chinese Computing (NLPCC)
+        releaseDate: 2023
+
+      - title: Enhance Document-Level Event Argument Extraction Through Text Diffusion and Event Argument Constraints
+        authors:
+          - Yunfei Liu
+          - Yizhao Wang
+          - Shiyi Hao
+          - Shengyang Li
+        publisher: 2025 IEEE 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+        releaseDate: 2025
+
+      - title: Explicit Sparse Attention Network for Multimodal Named Entity Recognition
+        authors:
+          - Yunfei Liu
+          - Shengyang Li
+          - Feihu Hu
+          - Anqi Liu
+          - Yanan Liu
+        publisher: China Conference on Knowledge Graph and Semantic Computing (CCKS)
+        releaseDate: 2022
+
+      - title: "EicDB: A Cloud Native Distributed Relational Database Based on Shared Storage"
+        authors:
+          - Yunfei Liu
+          - Shengyang Li
+          - Yunziwei Deng
+          - Chen Du
+        publisher: 2025 the 8th International Conference on Software Engineering and Information Management
+        releaseDate: 2025
+
+      - title: 基于云平台的空间站工程空间应用地面数据系统技术
+        authors:
+          - 李盛阳
+          - 刘云飞
+          - 于海军
+          - 杜晨
+          - 邓云紫微
+        publisher: 中国科学：技术科学
+        releaseDate: 2025
+
+      - title: 基于云平台的空间站工程地面数据综合管理与服务系统
+        authors:
+          - 李盛阳
+          - 刘云飞
+          - 于海军
+          - 邓云紫微
+          - 王博
+          - 杨波
+        publisher: 载人航天
+        releaseDate: 2025
+        summary: 载人航天学术大会优秀论文
+
+      - title: An Efficient and Effective Cloud Monitoring Architecture based on Data Visualization and Digital Twin Technology
+        authors:
+          - Yunziwei Deng
+          - Yunfei Liu
+          - Shengyang Li
+          - Zhiwen Liu
+          - Bo Yang
+        publisher: International Conference on Virtual Reality and Visualization (ICVRV)
+        releaseDate: 2024
+
+      - title: 基于MRC动态数据生成的命名实体识别方法
+        authors:
+          - 范西朋
+          - 刘云飞
+          - 李盛阳
+          - 郭威虎
+          - 胡淼泊
+        publisher: 中文信息学报
+        releaseDate: 2023
+
+      - title: DCGAN with Quadratic Potential for Hard Disk Failure Prediction in Operational Data Center
+        authors:
+          - Anqi Liu
+          - Yunfei Liu
+          - Yunziwei Deng
+          - Shengyang Li
+        publisher: 2023 6th International Conference on Information Communication and Signal Processing (ICICSP)
+        releaseDate: 2023
+
+      - title: A Multi-Gate Encoder for Joint Entity and Relation Extraction
+        authors:
+          - Xiong Xiong
+          - Yunfei Liu
+          - Anqi Liu
+          - Shuai Gong
+          - Shengyang Li
+        publisher: China National Conference on Chinese Computational Linguistics (CCL)
+        releaseDate: 2022
+
+      - title: A 3D Model-Driven Integration and Visualization Framework for Aerospace Engineering Data
+        authors:
+          - Haijun Yu
+          - Yunfei Liu
+          - Yunziwei Deng
+          - Shengyang Li
+        publisher: 2022 4th International Academic Exchange Conference on Science and Technology Innovation (IAECST)
+        releaseDate: 2022
+
+      - title: 海量空间站任务数据的挖掘与分析系统技术研究
+        authors:
+          - 邓云紫微
+          - 李盛阳
+          - 刘云飞
+          - 杨波
+          - 刘安琪
+          - 刘雅楠
+        publisher: 载人航天
+        releaseDate: 2025
+
+      - title: "数智驱动的空间科学实验研究：AI4S 范式下的新探索"
+        authors:
+          - 李盛阳
+          - 刘康
+          - 刘云飞
+          - 赖楚凡
+        publisher: 中国科学院院刊
+        releaseDate: 2025
+
+      - title: Enhancing Ontology Knowledge for Domain-Specific Joint Entity and Relation Extraction
+        authors:
+          - Xiong Xiong
+          - Chen Wang
+          - Yunfei Liu
+          - Shengyang Li
+        publisher: China National Conference on Chinese Computational Linguistics (CCL)
+        releaseDate: 2023
+
+      - title: A Transformer-Based Longer Entity Attention Model for Chinese Named Entity Recognition in Aerospace
+        authors:
+          - Shuai Gong
+          - Xiong Xiong
+          - Yunfei Liu
+          - Shengyang Li
+          - Anqi Liu
+        publisher: International Conference on Machine Learning and Knowledge Engineering (MLKE)
+        releaseDate: 2022
+
+      - title: Fusing Attribute Type Features for Attribute Value Extraction from Product via Question Answering
+        authors:
+          - Miaobo Hu
+          - Jun Xiao
+          - Yunfei Liu
+          - Weihu Guo
+          - Xipeng Fan
+        publisher: 2022 5th International Conference on Machine Learning and Natural Language Processing
+        releaseDate: 2022
+
+      - title: Spatially and Semantically Enhanced Siamese Network for Semantic Change Detection in High-Resolution Remote Sensing Images
+        authors:
+          - Manqi Zhao
+          - Zifei Zhao
+          - Shuai Gong
+          - Yunfei Liu
+          - Jian Yang
+          - Xiong Xiong
+          - Shengyang Li
+        publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+        releaseDate: 2022
+
+      - title: 天宫一号高光谱遥感场景分类数据集及应用
+        authors:
+          - 刘康
+          - 周壮
+          - 李盛阳
+          - 刘云飞
+          - 万雪
+          - 刘志文
+          - 谭洪
+          - 张万峰
+        publisher: 遥感学报
+        releaseDate: 2020
+
+      - title: "GAEL: A Global-Aware Entity Linking Model Based on Retriever-Reader Paradigm"
+        authors:
+          - Linjie Wang
+          - Shiyi Hao
+          - Yuxing Lu
+          - Chen Wang
+          - Yunfei Liu
+          - Shengyang Li
+        publisher: International Conference on Machine Learning and Natural Language Processing (MLNLP)
+        releaseDate: 2024
+
+      - title: "VTN-EG: CLIP-Based Visual and Textual Fusion Network for Entity Grounding"
+        authors:
+          - Shiyi Hao
+          - Linjie Wang
+          - Yifeng Zheng
+          - Chen Wang
+          - Yunfei Liu
+          - Shengyang Li
+        publisher: International Conference on Machine Learning and Natural Language Processing (MLNLP)
+        releaseDate: 2024
+
+      - title: A Lexicon Enhanced Chinese Long Named Entity Recognition Using Word-Aware Attention
+        authors:
+          - Chen Wang
+          - Xiong Xiong
+          - Linjie Wang
+          - Yifeng Zheng
+          - Yunfei Liu
+          - Shengyang Li
+        publisher: International Conference on Machine Learning and Natural Language Processing (MLNLP)
+        releaseDate: 2023
+
+      - title: Remote Sensing Image Scene Classification by Multiple Granularity Semantic Learning
+        authors:
+          - Weilong Guo
+          - Shengyang Li
+          - Jian Yang
+          - Zhuang Zhou
+          - Yunfei Liu
+          - Junjie Lu
+          - Longxuan Kou
+          - Manqi Zhao
+        publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+        releaseDate: 2022
+
+      - title: Chinese Entity Linking with Two-stage Pre-training Transformer Encoders
+        authors:
+          - Shuai Gong
+          - Xiong Xiong
+          - Shengyang Li
+          - Anqi Liu
+          - Yunfei Liu
+        publisher: International Conference on Advanced Electronic Materials, Computers and Software Engineering (AEMCSE)
+        releaseDate: 2022
+
+      - title: 天宫二号应用任务地面数据处理与服务系统
+        authors:
+          - 李盛阳
+          - 刘志文
+          - 张万峰
+          - 谭洪
+          - 刘云飞
+          - 王博
+          - 顾逸东
+        publisher: 中国科学：技术科学
+        releaseDate: 2020
+
+      - title: Using Reverse Lookup and Bidirectional Query for Event Argument Extraction Prompt Enhancement
+        authors:
+          - Yifeng Zheng
+          - Shengyang Li
+          - Shiyi Hao
+          - Linjie Wang
+          - Chen Wang
+          - Yunfei Liu
+        publisher: 2024 7th International Conference on Artificial Intelligence and Big Data (ICAIBD)
+        releaseDate: 2024
+
+      - title: Siamese Graph Attention Networks for robust visual object tracking
+        authors:
+          - Junjie Lu
+          - Shengyang Li
+          - Weilong Guo
+          - Manqi Zhao
+          - Jian Yang
+          - Yunfei Liu
+          - Zhuang Zhou
+        publisher: Computer Vision and Image Understanding
+        releaseDate: 2023
+
+    专利:
+      - title: 基于视觉语言预训练模型的细粒度多模态提示学习方法
+        authors:
+          - 刘云飞
+          - 李盛阳
+          - 王驿钊
+        publisher: "ZL 2024 1 1501689.6"
+        releaseDate: 2025-10
+
+      - title: 一种航天工程大数据挖掘与分析方法及系统
+        authors:
+          - 刘云飞
+          - 李盛阳
+          - 刘安琪
+          - 邓云紫微
+        publisher: "ZL 2024 1 0184496.6"
+        releaseDate: 2025-01
+
+      - title: 航天工程业务运行日志管理与监控告警方法及系统
+        authors:
+          - 刘云飞
+          - 李盛阳
+          - 杜晨
+          - 邓云紫薇
+        publisher: "ZL 2024 1 0492184.1"
+        releaseDate: 2024-10
+
+      - title: 用于电子设备的航天工程大数据知识图谱图形用户界面
+        authors:
+          - 刘云飞
+          - 李盛阳
+          - 刘彦何
+        publisher: "ZL 2023 3 0746378.6（外观设计）"
+        releaseDate: 2024-07
+
+      - title: 一种航天工程天地实验数据对比可视化方法及系统
+        authors:
+          - 李盛阳
+          - 刘云飞
+          - 刘安琪
+          - 邓云紫薇
+        publisher: "ZL 2024 1 0492200.7"
+        releaseDate: 2024-10
+
+      - title: 一种支持航天工程大规模数据查询检索方法及系统
+        authors:
+          - 李盛阳
+          - 刘云飞
+          - 杜晨
+          - 邓云紫微
+        publisher: "ZL 2024 1 0184616.2"
+        releaseDate: 2024-10
+
+      - title: 支持空间科学与应用数据质量分析和评价的方法及系统
+        authors:
+          - 李盛阳
+          - 刘云飞
+          - 杜晨
+          - 周立杰
+          - 李健华
+        publisher: "ZL 2024 1 1438181.6"
+        releaseDate: 2025-05
+
+      - title: 支持航天工程文件数据上传与全链路管理的方法及系统
+        authors:
+          - 李盛阳
+          - 刘云飞
+          - 杜晨
+        publisher: "ZL 2023 1 1496431.7"
+        releaseDate: 2024-09
+
+      - title: 一种用于云平台与云上业务运行监控可视化的方法及系统
+        authors:
+          - 李盛阳
+          - 刘云飞
+          - 杜晨
+        publisher: "ZL 2023 1 1606565.X"
+        releaseDate: 2024-07
+
+      - title: 空间高微重力下 MEMS 惯性传感器变化趋势预测方法及装置
+        authors:
+          - 李盛阳
+          - 刘雅楠
+          - 刘云飞
+          - 李宗峰
+        publisher: "ZL 2024 1 1157051.5"
+        releaseDate: 2025-09
+
+      - title: 一种航天有效载荷旋转设备的故障预测方法和系统
+        authors:
+          - 刘安琪
+          - 李盛阳
+          - 刘云飞
+          - 邓云紫微
+        publisher: "ZL 2024 1 1672657.2"
+        releaseDate: 2025-09
+
+      - title: 一种空间科学实验数据在线协同分析方法及系统
+        authors:
+          - 邓云紫微
+          - 李盛阳
+          - 刘云飞
+        publisher: "ZL 2025 1 1237777.4"
+        releaseDate: 2026-04
+
+      - title: 一种航天工程数据算法模型全生命周期管理方法及系统
+        authors:
+          - 李盛阳
+          - 邓云紫微
+          - 刘云飞
+          - 刘安琪
+          - 刘雅楠
+        publisher: "ZL 2025 1 0336187.0"
+        releaseDate: 2026-02
+
+      - title: 一种航天文本数据的中文实体和关系联合抽取方法、系统
+        authors:
+          - 李盛阳
+          - 熊雄
+          - 刘云飞
+        publisher: "ZL 2022 1 1419102.8"
+        releaseDate: 2023-07
+
+      - title: 一种航天文本数据的实体识别与链接方法、系统
+        authors:
+          - 李盛阳
+          - 龚帅
+          - 刘云飞
+        publisher: "ZL 2022 1 0853365.3"
+        releaseDate: 2023-06
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: 航天地面数据系统技术
+        keywords: "航天地面数据系统设计与研制, 云原生分布式系统, 专有云 / 公有云平台建设"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: 空间应用大数据智能分析
+        keywords: "知识图谱构建, 多模态融合学习, 领域大模型与智能体应用"
