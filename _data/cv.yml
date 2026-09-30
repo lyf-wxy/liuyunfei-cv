@@ -51,7 +51,7 @@ cv:
         start_date: 2013-07
         end_date: 2014-09
 
-    主要业绩:
+    Projects:
       - name: 工程信息中心系统研制
         summary: 载人航天工程 · 副主任设计师
         start_date: 2019-11
@@ -429,7 +429,6 @@ cv:
         publisher: Computer Vision and Image Understanding
         releaseDate: 2023
 
-    专利:
       - title: 基于视觉语言预训练模型的细粒度多模态提示学习方法
         authors:
           - 刘云飞
