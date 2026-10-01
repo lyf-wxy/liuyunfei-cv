@@ -207,9 +207,9 @@ cv:
           - 邓云紫微
           - 王博
           - 杨波
-        publisher: ZRHT
+        publisher: 载人航天
         releaseDate: 2025
-        summary: ZRHT学术大会优秀论文
+        summary: 载人航天学术大会优秀论文
 
       - title: An Efficient and Effective Cloud Monitoring Architecture based on Data Visualization and Digital Twin Technology
         authors:
@@ -267,7 +267,7 @@ cv:
           - 杨波
           - 刘安琪
           - 刘雅楠
-        publisher: ZRHT
+        publisher: 载人航天
         releaseDate: 2025
 
       - title: "数智驱动的空间科学实验研究：AI4S 范式下的新探索"
