@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>工程信息中心</p>
     <p>中国科学院空间应用工程与技术中心</p>
     <p>北京，中国</p>
 
